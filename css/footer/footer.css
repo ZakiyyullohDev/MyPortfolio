@@ -1,0 +1,17 @@
+.site-footer {
+    background: rgba(123, 74, 226, 0.10);
+}
+
+.footer-ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.footer-li {
+    margin-right: 30px;
+}

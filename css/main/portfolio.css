@@ -1,0 +1,117 @@
+
+
+.portfolio-top {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 100px;
+    flex-direction: column;
+}
+
+.portfolio-btn {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    color: #7B4AE2;
+    font-size: 20px;
+    margin-bottom: 24px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 5px 10px;
+    border-radius: 16px;
+    background-color: rgba(123, 74, 226, 0.10);
+}
+
+.portfolio-h1 {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.project-ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+}
+
+.project-li {
+    margin-right: 56px;
+    margin-bottom: 48px;
+}
+
+.project-li:last-child {
+    margin-right: 0;
+}
+
+.project-card {
+    width: 360px;
+    margin: 0;
+    padding: 0;
+    padding: 30px 27px;
+    border-radius: 16px;
+    border: 1px solid rgba(123, 74, 226, 0.50);
+    transition: all 0.5s ease-in-out;
+}
+
+.project-card:hover {
+    border-radius: 0;
+    background: rgba(123, 74, 226, 0.10)
+}
+
+.project-card-h3 {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    font-size: 20px;
+    margin-bottom: 9px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+.project-btn-wrapper {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.project-card-p {
+    margin: 0;
+    padding: 0;
+    color: rgba(255, 255, 255, 0.50);
+    font-size: 14px;
+    margin-bottom: 69px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.project-btn{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 22px;
+    margin-right: 10px;
+    font-size: 14px;
+    color: #7B4AE2;
+    font-weight: bold;
+    background: rgba(123, 74, 226, 0.1);
+    border-radius: 8px;
+    padding: 5px 8px;
+}
+
+.project-btn:last-child{
+    margin-right: 0;
+}
+
+.project-img {
+    width: 300px;
+    height: 200px;
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+}
