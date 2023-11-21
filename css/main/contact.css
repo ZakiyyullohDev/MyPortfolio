@@ -34,7 +34,7 @@
 .contact-ul {
     display: flex;
     align-items: center;
-    margin-bottom: 110px;
+    margin-bottom: 100px;
     list-style-type: none;
     justify-content: center;
 }
@@ -68,7 +68,7 @@
 .top-func {
     display: flex;
     cursor: pointer;
-    margin-bottom: 207px;
+    margin-bottom: 120px;
     align-items: center;
     justify-content: center;
     color: rgba(123, 74, 226, 0.50);
